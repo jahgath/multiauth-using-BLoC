@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "333082802318",
+    "firebase_url": "https://multiauth-18f01.firebaseio.com",
+    "project_id": "multiauth-18f01",
+    "storage_bucket": "multiauth-18f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333082802318:android:cefa8ae21e366a072df1df",
+        "android_client_info": {
+          "package_name": "com.front.multiauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333082802318-q69bh5q05ffnjvbk2si8gqr2m06k7m51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.front.multiauth",
+            "certificate_hash": "a64446f86c50bcf7b7a724565f3b7bec657586d5"
+          }
+        },
+        {
+          "client_id": "333082802318-lb71eua2c06afi1f9egfq6n4r2cthase.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMumVxQLD_O6DjPJqCxRNmTGfJYru4zJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333082802318-lb71eua2c06afi1f9egfq6n4r2cthase.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
